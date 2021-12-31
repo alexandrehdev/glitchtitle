@@ -1,1 +1,1 @@
-This is a View of a Glith Title
+This is a View of a Glitch Title
